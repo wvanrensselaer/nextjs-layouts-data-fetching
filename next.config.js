@@ -6,9 +6,6 @@ const nextConfig = {
     appDir: true,
     serverComponents: true,
     newNextLinkBehavior: true,
-    images: {
-      allowFutureImage: true,
-    },
     legacyBrowsers: false,
     browsersListForSwc: true,
   },
